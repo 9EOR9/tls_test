@@ -10,8 +10,9 @@ Requirements:
 - CMake
 
 Build:
+
 mkdir bld
+
 cd bld
+
 cmake ..
-# Start VS
-test_tls.sln
